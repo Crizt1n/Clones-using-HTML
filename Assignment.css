@@ -1,0 +1,195 @@
+*{background-color: rgb(2, 7, 7);}
+.div00{width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 5px double rgb(0, 0, 0);
+
+}
+.div0{width: 200px;
+    height: 100px;
+    background-color: darkolivegreen;
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 105px;
+    margin-bottom: -110px;
+    
+}
+.div01{width: 200px;
+    height: 100px;
+    background-color: rgb(95, 4, 25);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 105px;
+    margin-bottom: -110px;
+
+}
+
+.div02{width: 100px;
+    height: 100px;
+    background-color: rgb(217, 255, 0);
+    border: 5px double rgb(0, 0, 0);
+
+}
+.div03{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(11, 88, 130);
+    border: 5px double rgb(0, 0, 0);
+
+}
+.div1{width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 210px;
+    margin-top: -110px;
+
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 12, 180);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 210px;
+    margin-top: -110px;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 420px;
+    margin-top: -110px;
+}
+.div4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 179, 255);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 420px;
+    margin-top: -109px;
+}
+.div5
+{width: 100px;
+    height: 100px;
+    background-color: rgb(166, 0, 255);
+    border: 5px double rgb(0, 0, 0);
+   
+}
+.div6{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(233, 112, 7);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 210px;
+    margin-top: -110px
+}
+.div7{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(15, 2, 255);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 210px;
+    margin-top: -110px;
+}
+.div8{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 128, 0, 0.386);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 420px;
+    margin-top: -110px;
+}
+.div9{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(94, 11, 237);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 420px;
+    margin-top: -110px;
+}
+.div10{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 630px;
+    margin-top: -110px;
+}
+.div11{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(179, 0, 255);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 630px;
+    margin-top: -110px;
+}
+.div12{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 140, 0);
+    border: 5px double rgb(0, 0, 0);
+   
+}
+.div13{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(237, 7, 7, 0.334);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 210px;
+    margin-top: -110px;
+}
+.div14{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 255, 47);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 210px;
+    margin-top: -110px;
+}
+.div15{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(7, 46, 82);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 420px;
+    margin-top: -110px;
+}
+.div16{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(6, 139, 247);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 420px;
+    margin-top: -110px;
+}
+.div17{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(5, 239, 79);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 630px;
+    margin-top: -110px;
+}
+.div18{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(128, 107, 198);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 630px;
+    margin-top: -110px;
+}
+.div19{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(235, 151, 7);
+    border: 5px double rgb(0, 0, 0);
+    margin-left: 840px;
+    margin-top: -110px;
+}
+.div20{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 140);
+    border: 5px double rgb(0, 0, 0);
+    margin-right: 840px;
+    margin-top: -110px;
+}

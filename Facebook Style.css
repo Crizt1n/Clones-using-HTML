@@ -1,0 +1,75 @@
+*{background-color:rgb(255, 255, 255);
+  ;
+
+}
+
+.div1{background-color: rgb(246, 246, 246);
+height: 400px;
+width: 400px;
+border: 5px;
+padding: 10px;
+border-radius: 9px;
+border-style:outset;}
+input{
+    width: 90%;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    
+    
+}
+.input1{
+    width: 90%;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+button{
+    width: 91%;
+    height: 40px;
+    border-radius: 5px;
+   color: white;
+    background-color: blue;
+    border-style: outset;
+    
+}
+span{background-color: blue;}
+b{background-color: blue;}
+
+.button1{
+    width: 60%;
+    height:50px;
+    background-color: green;
+
+}
+.a1{background-color: green;
+color: white;}
+.span1{
+    background-color: white;
+    border-style: none;
+    opacity: 0.9;
+}
+.div2{
+    background-color: rgb(255, 255, 255);
+    width: 55%;
+    height: 55px;
+    background-size: cover;
+    margin-left: 350px;
+    margin-bottom: 10px;
+
+}
+
+.span2{
+    background-color: rgb(103, 101, 101);
+    color: white;
+    border-style: none;
+
+}
+.span3{
+    background-color: rgb(255, 255, 255);
+    
+    border-style: none;
+    opacity: 0.9;
+
+}
+.p1{background-color: white;}

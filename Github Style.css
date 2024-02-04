@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(255, 255, 255);}
+
+h2
+
+{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.div1{
+    width: 330px;
+    height: 210px;
+    background-color: rgb(240, 249, 252);
+    border-radius: 5px;
+    border: solid 1px rgb(149, 149, 149);
+    padding: 0px;
+    
+}
+.input1{
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+}
+.a1{
+    text-decoration: none;
+    background-color: rgb(240, 249, 252);
+    font-size: small;
+
+}
+.a2{
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    font-size: small;}
+.button1{
+    width: 91%;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    border: solid 1px green;
+    background-color: rgb(4, 99, 4);
+}
+.div2{
+    width: 330px;
+    height: 55px;
+    border: solid 1px gray;
+    border-radius: 5px;
+}
+.list1{
+    display: inline-block;
+    margin: 50px 20px 10px 10px ;
+    font-size: small;
+}
